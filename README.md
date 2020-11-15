@@ -93,13 +93,20 @@ They provide security in accessing the various resources by creating a private n
 [] Identity Management (KeyCloak)
 ```
 
-##### Terraform Configuration
-**PnL VPN** [WireGuard]
-**PnL Meet** [JitsiMeet]
-**PnL Chat** [MatterMost]
-**PnL Cloud** [NextCloud]
-**PnL Labs** [GitLab]
-**PnL IDP** [KeyCloak]
+##### Cloud Regions
+
+The currently supported VPN deployment regions are
+
+Digital Ocean:
+
+* New York City
+* Amsterdam
+* San Francisco
+* Singapore
+* London
+* Frankfurt
+* Toronto
+* Bangalore
 
 ###  Future Roadmap
 ```
@@ -156,15 +163,3 @@ PNL:> help delete
     
 ```
 
-The currently supported VPN deployment regions are
-
-Digital Ocean:
-
-* New York City
-* Amsterdam
-* San Francisco
-* Singapore
-* London
-* Frankfurt
-* Toronto
-* Bangalore
