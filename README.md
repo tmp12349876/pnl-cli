@@ -93,6 +93,8 @@ They provide security in accessing the various resources by creating a private n
 [] Identity Management (KeyCloak)
 ```
 
+The VPN deployment leverages the [PnL VPN configuration]("https://github.com/AnubisBeaker/pnl-vpn")
+
 ##### Cloud Regions
 
 The currently supported VPN deployment regions are
