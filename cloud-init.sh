@@ -47,7 +47,7 @@ ${BODY}
 sendmail -t < email.eml
 # pull down pnl-vpn repo
 #TODO remove token and make publically available pnl vpn repo
-git clone https://github.com/nicholasericksen/pnl-vpn.git
+git clone https://github.com/AnubisBeaker/pnl-vpn.git
 
 # cd into repo
 cd pnl-vpn
